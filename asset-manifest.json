@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/addictedmonkeys.io/static/css/main.1d83439f.chunk.css",
+    "main.js": "/addictedmonkeys.io/static/js/main.bd9bc0a7.chunk.js",
+    "main.js.map": "/addictedmonkeys.io/static/js/main.bd9bc0a7.chunk.js.map",
+    "runtime-main.js": "/addictedmonkeys.io/static/js/runtime-main.b230439c.js",
+    "runtime-main.js.map": "/addictedmonkeys.io/static/js/runtime-main.b230439c.js.map",
+    "static/js/2.2ca6fc8e.chunk.js": "/addictedmonkeys.io/static/js/2.2ca6fc8e.chunk.js",
+    "static/js/2.2ca6fc8e.chunk.js.map": "/addictedmonkeys.io/static/js/2.2ca6fc8e.chunk.js.map",
+    "static/js/3.af217577.chunk.js": "/addictedmonkeys.io/static/js/3.af217577.chunk.js",
+    "static/js/3.af217577.chunk.js.map": "/addictedmonkeys.io/static/js/3.af217577.chunk.js.map",
+    "index.html": "/addictedmonkeys.io/index.html",
+    "static/css/main.1d83439f.chunk.css.map": "/addictedmonkeys.io/static/css/main.1d83439f.chunk.css.map",
+    "static/js/2.2ca6fc8e.chunk.js.LICENSE.txt": "/addictedmonkeys.io/static/js/2.2ca6fc8e.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/addictedmonkeys.io/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b230439c.js",
+    "static/js/2.2ca6fc8e.chunk.js",
+    "static/css/main.1d83439f.chunk.css",
+    "static/js/main.bd9bc0a7.chunk.js"
+  ]
+}
